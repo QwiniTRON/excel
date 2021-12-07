@@ -1,0 +1,7 @@
+- Webpack
+  Babel + polifils
+  Scss
+  Eslint
+  Dev + Prod mods for developming and deploying
+
+- Git
