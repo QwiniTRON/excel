@@ -1,0 +1,9 @@
+$red1: #f00;
+
+:root {
+  --red: #f00;
+}
+
+body {
+  background-color: var(--red, $red1);
+}

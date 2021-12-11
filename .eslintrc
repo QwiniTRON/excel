@@ -1,0 +1,19 @@
+{
+  "parser": "babel-eslint",
+  "env": {
+    "es6": true,
+    "browser": true,
+    "node": true
+  },
+  "rules": {
+    "quotes": "off",
+    "require-jsdoc": "off",
+    "linebreak-style": "off",
+    "max-len": "off",
+    "object-curly-spacing": "off"
+  },
+  "extends": [
+    "eslint:recommended",
+    "google"
+  ]
+}
